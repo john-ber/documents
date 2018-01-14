@@ -1,5 +1,4 @@
 # Blockchain Implementation Example & Documents 
-작업증명(PoW, Proof-of-work)과 지분증명(PoS, Proof-of-stake)
 
 ## Implementation 
 ### Javascript 
